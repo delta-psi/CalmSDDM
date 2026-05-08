@@ -1,5 +1,5 @@
 {
-  description = "A very customizable SDDM theme that actually looks good";
+  description = "A (fork of a) very customizable SDDM theme that actually looks good";
   inputs.nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
 
   outputs = {
